@@ -1,0 +1,11 @@
+node_modules
+dist
+*.tsbuildinfo
+*.log
+packages/entry/schemas/**
+tmpAssets
+.env
+packages/**/tmp/**
+packages/entry/tasks
+.vscode
+packages/**/repo/**

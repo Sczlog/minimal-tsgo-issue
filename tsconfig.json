@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "strict": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true
+  },
+  "references": [
+    {
+      "path": "./packages/entry"
+    },
+    {
+      "path": "./packages/go"
+    },
+    {
+      "path": "./packages/java"
+    },
+    {
+      "path": "./packages/python"
+    },
+    {
+      "path": "./packages/typescript"
+    },
+    {
+      "path": "./packages/utils"
+    }
+  ]
+}
