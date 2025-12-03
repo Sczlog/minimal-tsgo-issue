@@ -22,7 +22,7 @@
       "path": "./packages/python"
     },
     {
-      "path": "./packages/typescript"
+      "path": "./packages/foo"
     },
     {
       "path": "./packages/utils"
