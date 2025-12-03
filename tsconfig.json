@@ -13,16 +13,7 @@
       "path": "./packages/entry"
     },
     {
-      "path": "./packages/go"
-    },
-    {
-      "path": "./packages/java"
-    },
-    {
-      "path": "./packages/python"
-    },
-    {
-      "path": "./packages/foo"
+      "path": "./packages/typescript"
     },
     {
       "path": "./packages/utils"
